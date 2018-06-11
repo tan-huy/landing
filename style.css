@@ -121,8 +121,11 @@ body {
 .header-content p {
     font-size: 20px;
 }
+
+.fullscreen-video-wrap {
+    overflow: auto;
     /* .container {
         padding-right: 3rem;
         padding-left: 3rem; */
-    
+    }
 }
